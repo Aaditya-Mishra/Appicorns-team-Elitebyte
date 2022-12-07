@@ -4,6 +4,6 @@
 
 * Saurav Singh
 
-* Bajrang Gaur
+* Bajrang Gour
 
 * Komal Singh
